@@ -1,0 +1,9 @@
+# macOS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Node modules in case someone accidentally installs in root
+node_modules/
