@@ -15,7 +15,7 @@ export default function Navbar(){
     ]
 
     return (
-        <div className="flex items-center justify-between w-full pl-4 pr-4 pt-4 pb-5 bg-white">
+        <div className="flex items-center justify-between w-full pl-4 pr-4 pt-4 pb-5 bg-white/70 backdrop-blur-xl ">
             {companyName}
             <div className="flex gap-10 items-center">
                 {

@@ -1,10 +1,12 @@
+import { CiStar } from "react-icons/ci";
 import Button from "./Button";
+import Rating from "./Rating";
 
 export default function Card() {
   const title = "Wireless Earbuds, IPX8";
   const price = 800;
   const discription = "Organic cotton, fairtrade certified";
-  const rating = 4.5;
+  const rating = 4.2;
 
   return (
     <div className=" col-span-2 w-full">
@@ -18,11 +20,11 @@ export default function Card() {
       <div className="text-[0.8rem] font-medium text-gray-500  ">Rating: 
         </div>
         <div className="text-[1rem] font-medium italic">
-        {rating}
+        <Rating value={rating} />
         </div>
       </div>
       <Button
-        className="mt-1 p-1.5 pl-5 pr-5 border-2 border-gray-200 w-fit text-xs font-semibold rounded-4xl  hover:bg-gray-200 hover:cursor-pointer"
+        className='border-1 mt-1 p-1.5 text-sm rounded-4xl hover:text-white hover:bg-[#222222] hover:border-black hover:cursor-pointer' 
         text={"Add to Cart"}
       />
     </div>

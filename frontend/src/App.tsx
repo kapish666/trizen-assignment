@@ -8,9 +8,11 @@ import ProductGrid from './components/ProductGrid'
 function App() {
 
   return (
-    <div className='font-["Montserrat"] w-full '>
+    <div className='relative font-["Montserrat"] w-full '>
+      <div className='fixed z-10 top-0 left-0 right-0'>
       <Navbar/>
-      <div className='flex justify-center mt-5 '>
+      </div>
+      <div className='flex justify-center mt-20  '>
       <Banner/>
       </div>
       <div className='pl-25 pr-25'>
