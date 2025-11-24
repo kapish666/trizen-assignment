@@ -19,9 +19,6 @@ This ecommerce website is a comprehensive solution that enables users to browse 
 
 - **User-Friendly Interface**: Clean, intuitive design for effortless navigation
 - **Responsive Design**: Optimized for desktop, tablet, and mobile devices
-- **Secure Transactions**: Industry-standard security practices for payment processing
-- **Real-Time Updates**: Dynamic cart and inventory management
-- **Admin Dashboard**: Comprehensive backend for product and order management
 
 ## ✨ Features
 
