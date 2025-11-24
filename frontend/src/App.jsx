@@ -65,6 +65,11 @@ function App() {
           ))}
         </ProductGrid>
       </div>
+      {filteredProducts.length === 0 && (
+        <div className="flex w-[100%] justify-center text-end font-medium text-xl text-gray-500 ">
+          ~~~ NO PRODUCTS ~~~
+        </div>
+      )}
     </div>
   );
 }

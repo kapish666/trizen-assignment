@@ -10,7 +10,7 @@ export default function Banner(){
             <div className='md:text-5xl sm:text-xl font-bold sm:mb-1 md:mb-5'>
             {text}
             </div>
-            <Button className='border-1 sm:p-2 md:p-2 md:w-28 md:text-sm rounded-4xl hover:text-white hover:bg-[#222222] hover:border-black hover:cursor-pointer' text="Buy Now"/>
+            <Button className='border-1 p-1 text-xs md:p-2 md:w-28 md:text-sm rounded-4xl hover:text-white hover:bg-[#222222] hover:border-black hover:cursor-pointer' text="Buy Now"/>
         </div>
         <div className='items-center rounded-4xl overflow-hidden'>
             <img src={banner} />
