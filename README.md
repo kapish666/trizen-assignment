@@ -4,20 +4,12 @@ A modern, full-featured ecommerce platform built to deliver seamless shopping ex
 
 ## 📋 Table of Contents
 
-- [About](#about)
-- [Features](#features)
-- [Tech Stack](#tech-stack)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-  - [Running the Application](#running-the-application)
-- [Project Structure](#project-structure)
-- [Usage](#usage)
-- [API Documentation](#api-documentation)
-- [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+🎯 About
+✨ Features
+🛠️ Tech Stack
+🚀 Getting Started
+📸 Screenshots
+📧 Contact
 
 ## 🎯 About
 
