@@ -4,12 +4,12 @@ A modern, full-featured ecommerce platform built to deliver seamless shopping ex
 
 ## 📋 Table of Contents
 
-🎯 [About](#about)
-✨ Features
-🛠️ Tech Stack
-🚀 Getting Started
-📸 Screenshots
-📧 Contact
+🎯 [About](#-about)
+✨ [Features](#-features)
+🛠️ [Tech Stack](#-tech-stack)
+🚀 [Getting Started](#-getting-started)
+📸 [Screenshots](#-screenshots)
+📧 [Contact](#-contact)
 
 ## 🎯 About
 
