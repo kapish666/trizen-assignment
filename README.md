@@ -4,7 +4,7 @@ A modern, full-featured ecommerce platform built to deliver seamless shopping ex
 
 ## 📋 Table of Contents
 
-🎯 About
+🎯 [About](#about)
 ✨ Features
 🛠️ Tech Stack
 🚀 Getting Started
